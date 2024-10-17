@@ -5,15 +5,16 @@ This project aims to detect and interpret sign language gestures using machine l
 ## Features
 
 - Real-time sign language detection using a webcam.
-- Translation of gestures into text or speech.
+- Translation of gestures into text.
 - User-friendly interface for interaction.
 
 ## Usage
 
 1. Run the application:
-    ```bash
-    streamlit run ui.py
-    ```
+
+   ```bash
+   streamlit run ui.py
+   ```
 
 2. Open your web browser and go to `http://localhost:5000` to start interacting with the application.
 
