@@ -1,5 +1,6 @@
-# Sign Language Detection
+Final year majorproject
 
+# Sign Language Detection
 This project aims to detect and interpret sign language gestures using machine learning techniques. It provides a real-time solution for translating sign language into text.
 
 ## Features
